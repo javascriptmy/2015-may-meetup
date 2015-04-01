@@ -9,7 +9,7 @@ Installation Instructions
 
 ##Installation Steps
 1. In the directory run:
-    1. `npm install -- production`
+    1. `npm install --production`
     2. `bower install`
 2. There is no step 2
 
